@@ -22,7 +22,7 @@ export default function Portfolio() {
     {
       name: "Tether Read AI",
       tech: "Next.js, React, Firebase, Cloudflare R2, MongoDB",
-      link: "#",
+      link: "https://tether-read.vercel.app/",
       description: [
         "Built a cross-platform EPUB reader with Next.js and epub.js, supporting seamless book rendering and navigation",
         "Reduced initial load time by 40% through caching strategies and pre-signed URL optimization",
@@ -33,7 +33,7 @@ export default function Portfolio() {
     {
       name: "Color Commits",
       tech: "Next.js, React, TailwindCSS, GitHub REST API",
-      link: "#",
+      link: "https://color-commits.netlify.app/",
       description: [
         "Built a GitHub repository visualizer in Next.js that fetches and displays directory structures with real-time file metadata",
         "Implemented a color-coded age analysis system to classify files by last commit date, improving repo scan clarity by 60%",
@@ -44,7 +44,7 @@ export default function Portfolio() {
     {
       name: "News Room 24/7",
       tech: "React, NewsAPI",
-      link: "#",
+      link: "https://newsroom-24-7.netlify.app/",
       description: [
         "Built a news aggregator app using React and NewsAPI to display real-time news from 30+ sources",
         "Reduced data load time by 20% via lazy loading and optimized API fetching",
