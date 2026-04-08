@@ -56,12 +56,14 @@ export default function Portfolio() {
   const experience = [
     {
       company: "Rupyy (Cardekho)",
-      role: "Quality Analyst",
+      role: "Software Developer",
       period: "July 2024 - July 2025",
       location: "Remote",
       points: [
-        "Oversaw quality for loan management systems, increasing code coverage by 35% through detailed analysis of backend logic, control flow, and conditional branches",
-        "Contributed to debugging efforts using RockMongo and Chrome DevTools, reducing defect resolution time by 25%"
+        "Built features for a loan management system using React, Node.js (Express), and REST APIs."
+        "Worked with MongoDB and MySQL for data handling, optimizing queries for loan and document workflows."
+        "Structured applications using a micro-services architecture, improving scalability and code maintainability."
+        "Followed clean coding and modular design principles, writing high-performance, low-latency code optimized for scale and maintainability."
       ]
     },
     {
